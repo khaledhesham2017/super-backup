@@ -1,2 +1,2 @@
-# super-cloud
-this project help any pepole share any floder with any anthor pepole
+# super-back-up
+ths app helps to create backups for folders and provide versions for the choosen folders 
